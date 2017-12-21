@@ -1,0 +1,5 @@
+<application>
+  <component name="DockerTreeFilter">
+    <option name="myUntaggedImagesHidden" value="true" />
+  </component>
+</application>

@@ -3,6 +3,9 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://192.168.10.12:2375" />
+        <option name="pathMappings">
+          <list />
+        </option>
       </configuration>
     </remote-server>
   </component>
